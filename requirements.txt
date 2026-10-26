@@ -1,0 +1,10 @@
+# Python >= 3.10
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+statsmodels>=0.14
+matplotlib>=3.8
+seaborn>=0.13
+arch>=7.0
+yfinance>=0.2.50
+jupyter>=1.0
